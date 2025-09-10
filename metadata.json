@@ -1,0 +1,5 @@
+{
+  "name": "PDF Bill Annexure Generator",
+  "description": "An application to read PDF files of hospital and medical bills, extract key details using AI, and generate a clean, single-page annexure with a total summary.",
+  "requestFramePermissions": []
+}
